@@ -1,0 +1,30 @@
+Country/Region,Confirmed,Deaths,Recovered,Active
+Australia,15,0,2,13
+Belgium,1,0,0,1
+Cambodia,1,0,0,1
+Canada,7,0,0,7
+Finland,1,0,0,1
+France,11,0,0,11
+Germany,14,0,0,14
+Hong Kong,29,1,0,28
+India,3,0,0,3
+Italy,3,0,0,3
+Japan,26,0,1,25
+Macau,10,0,1,9
+Mainland China,39790,904,3218,35668
+Malaysia,16,0,1,15
+Nepal,1,0,0,1
+Others,64,0,0,64
+Philippines,3,1,0,2
+Russia,2,0,0,2
+Singapore,40,0,2,38
+South Korea,25,0,3,22
+Spain,2,0,0,2
+Sri Lanka,1,0,1,0
+Sweden,1,0,0,1
+Taiwan,18,0,1,17
+Thailand,32,0,10,22
+UK,3,0,0,3
+US,12,0,3,9
+United Arab Emirates,7,0,0,7
+Vietnam,13,0,1,12

@@ -1,0 +1,69 @@
+Country/Region,Confirmed,Deaths,Recovered,Active
+Afghanistan,1,0,0,1
+Algeria,1,0,0,1
+Armenia,1,0,0,1
+Australia,27,1,11,15
+Austria,14,0,0,14
+Azerbaijan,3,0,0,3
+Bahrain,47,0,0,47
+Belarus,1,0,0,1
+Belgium,2,0,1,1
+Brazil,2,0,0,2
+Cambodia,1,0,1,0
+Canada,24,0,6,18
+Croatia,7,0,0,7
+Czech Republic,3,0,0,3
+Denmark,4,0,0,4
+Dominican Republic,1,0,0,1
+Ecuador,6,0,0,6
+Egypt,2,0,1,1
+Estonia,1,0,0,1
+Finland,6,0,1,5
+France,130,2,12,116
+Georgia,3,0,0,3
+Germany,130,0,16,114
+Greece,7,0,0,7
+Hong Kong,96,2,36,58
+Iceland,3,0,0,3
+India,3,0,3,0
+Iran,978,54,175,749
+Iraq,19,0,0,19
+Ireland,1,0,0,1
+Israel,10,0,1,9
+Italy,1694,34,83,1577
+Japan,256,6,32,218
+Kuwait,45,0,0,45
+Lebanon,10,0,0,10
+Lithuania,1,0,0,1
+Luxembourg,1,0,0,1
+Macau,10,0,8,2
+Mainland China,79826,2870,42118,34838
+Malaysia,29,0,18,11
+Mexico,5,0,0,5
+Monaco,1,0,0,1
+Nepal,1,0,1,0
+Netherlands,10,0,0,10
+New Zealand,1,0,0,1
+Nigeria,1,0,0,1
+North Macedonia,1,0,0,1
+Norway,19,0,0,19
+Oman,6,0,1,5
+Others,705,6,10,689
+Pakistan,4,0,0,4
+Philippines,3,1,1,1
+Qatar,3,0,0,3
+Romania,3,0,0,3
+Russia,2,0,2,0
+San Marino,1,0,0,1
+Singapore,106,0,72,34
+South Korea,3736,17,30,3689
+Spain,84,0,2,82
+Sri Lanka,1,0,1,0
+Sweden,14,0,0,14
+Switzerland,27,0,0,27
+Taiwan,40,1,9,30
+Thailand,42,1,28,13
+UK,36,0,8,28
+US,76,1,7,68
+United Arab Emirates,21,0,5,16
+Vietnam,16,0,16,0

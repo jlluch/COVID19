@@ -1,0 +1,64 @@
+Country/Region,Confirmed,Deaths,Recovered,Active
+Afghanistan,1,0,0,1
+Algeria,1,0,0,1
+Australia,25,0,11,14
+Austria,9,0,0,9
+Bahrain,41,0,0,41
+Belarus,1,0,0,1
+Belgium,1,0,1,0
+Brazil,2,0,0,2
+Cambodia,1,0,1,0
+Canada,20,0,6,14
+Croatia,6,0,0,6
+Denmark,3,0,0,3
+Egypt,1,0,1,0
+Estonia,1,0,0,1
+Finland,3,0,1,2
+France,100,2,12,86
+Georgia,1,0,0,1
+Germany,79,0,16,63
+Greece,4,0,0,4
+Hong Kong,95,2,33,60
+Iceland,1,0,0,1
+India,3,0,3,0
+Iran,593,43,123,427
+Iraq,13,0,0,13
+Ireland,1,0,0,1
+Israel,7,0,1,6
+Italy,1128,29,46,1053
+Japan,241,5,32,204
+Kuwait,45,0,0,45
+Lebanon,4,0,0,4
+Lithuania,1,0,0,1
+Luxembourg,1,0,0,1
+Macau,10,0,8,2
+Mainland China,79251,2835,39279,37137
+Malaysia,25,0,18,7
+Mexico,4,0,0,4
+Monaco,1,0,0,1
+Nepal,1,0,1,0
+Netherlands,6,0,0,6
+New Zealand,1,0,0,1
+Nigeria,1,0,0,1
+North Macedonia,1,0,0,1
+Norway,15,0,0,15
+Oman,6,0,1,5
+Others,705,6,10,689
+Pakistan,4,0,0,4
+Philippines,3,1,1,1
+Qatar,1,0,0,1
+Romania,3,0,0,3
+Russia,2,0,2,0
+San Marino,1,0,0,1
+Singapore,102,0,72,30
+South Korea,3150,16,27,3107
+Spain,45,0,2,43
+Sri Lanka,1,0,1,0
+Sweden,12,0,0,12
+Switzerland,18,0,0,18
+Taiwan,39,1,9,29
+Thailand,42,0,28,14
+UK,23,0,8,15
+US,70,1,7,62
+United Arab Emirates,21,0,5,16
+Vietnam,16,0,16,0

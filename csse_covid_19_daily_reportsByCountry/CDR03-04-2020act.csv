@@ -1,0 +1,87 @@
+Country/Region,Confirmed,Deaths,Recovered,Active
+Afghanistan,1,0,0,1
+Algeria,12,0,0,12
+Andorra,1,0,0,1
+Argentina,1,0,0,1
+Armenia,1,0,0,1
+Australia,52,2,11,39
+Austria,29,0,0,29
+Azerbaijan,3,0,0,3
+Bahrain,52,0,0,52
+Belarus,6,0,0,6
+Belgium,23,0,1,22
+Brazil,4,0,0,4
+Cambodia,1,0,1,0
+Canada,33,0,6,27
+Chile,1,0,0,1
+Croatia,10,0,0,10
+Czech Republic,8,0,0,8
+Denmark,10,0,0,10
+Dominican Republic,1,0,0,1
+Ecuador,10,0,0,10
+Egypt,2,0,1,1
+Estonia,2,0,0,2
+Faroe Islands,1,0,0,1
+Finland,6,0,1,5
+France,285,4,12,269
+Georgia,3,0,0,3
+Germany,262,0,16,246
+Gibraltar,1,0,0,1
+Greece,9,0,0,9
+Hong Kong,105,2,37,66
+Hungary,2,0,0,2
+Iceland,26,0,0,26
+India,28,0,3,25
+Indonesia,2,0,0,2
+Iran,2922,92,552,2278
+Iraq,35,2,0,33
+Ireland,6,0,0,6
+Israel,15,0,1,14
+Italy,3089,107,276,2706
+Japan,331,6,43,282
+Jordan,1,0,0,1
+Kuwait,56,0,0,56
+Latvia,1,0,0,1
+Lebanon,13,0,1,12
+Liechtenstein,1,0,0,1
+Lithuania,1,0,0,1
+Luxembourg,1,0,0,1
+Macau,10,0,9,1
+Mainland China,80271,2981,49955,27335
+Malaysia,50,0,22,28
+Mexico,5,0,1,4
+Monaco,1,0,0,1
+Morocco,1,0,0,1
+Nepal,1,0,1,0
+Netherlands,38,0,0,38
+New Zealand,3,0,0,3
+Nigeria,1,0,0,1
+North Macedonia,1,0,0,1
+Norway,56,0,0,56
+Oman,15,0,2,13
+Others,706,6,10,690
+Pakistan,5,0,0,5
+Philippines,3,1,1,1
+Poland,1,0,0,1
+Portugal,5,0,0,5
+Qatar,8,0,0,8
+Romania,4,0,1,3
+Russia,3,0,2,1
+Saint Barthelemy,3,0,0,3
+San Marino,16,1,0,15
+Saudi Arabia,1,0,0,1
+Senegal,4,0,0,4
+Singapore,110,0,78,32
+South Korea,5621,35,41,5545
+Spain,222,2,2,218
+Sri Lanka,1,0,1,0
+Sweden,35,0,0,35
+Switzerland,90,0,3,87
+Taiwan,42,1,12,29
+Thailand,43,1,31,11
+Tunisia,1,0,0,1
+UK,85,0,8,77
+US,153,11,8,134
+Ukraine,1,0,0,1
+United Arab Emirates,27,0,5,22
+Vietnam,16,0,16,0
